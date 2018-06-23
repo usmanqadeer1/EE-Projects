@@ -1,0 +1,10 @@
+MO data_memory NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/data memory.v" vlg4A/data__memory.bin 1481924369
+MO signextension NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/datapath.v" vlg06/signextension.bin 1481924369
+MO instruction_memory NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/instruction_memory.v" vlg62/instruction__memory.bin 1481924369
+MO regfile NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/register_file.v" vlg72/regfile.bin 1481924369
+MO datapath NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/datapath.v" vlg27/datapath.bin 1481924369
+MO pc NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/pc.v" vlg13/pc.bin 1481924369
+MO mux NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/datapath.v" vlg66/mux.bin 1481924369
+MO glbl NULL C:/Xilinx/verilog/src/glbl.v vlg2D/glbl.bin 1481924369
+MO ALU NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/ALU.v" vlg2A/_a_l_u.bin 1481924369
+MO mux31 NULL "C:\Users\M Usman\Documents\dsd lab\project MIPS\mymips/datapath.v" vlg26/mux31.bin 1481924369

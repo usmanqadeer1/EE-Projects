@@ -1,0 +1,3 @@
+xst -ise "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/mymips.ise" -intstyle ise -ifn main.xst -ofn main.syr
+xst -ise "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/mymips.ise" -intstyle ise -ifn main.xst -ofn main.syr
+xst -ise "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/mymips.ise" -intstyle ise -ifn main.xst -ofn main.syr

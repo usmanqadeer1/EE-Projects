@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="92" delta="unknown" ><arg fmt="%s" index="1">&quot;../main.v&quot; line 9 </arg>Too many port connections in instance &apos;<arg fmt="%s" index="2">mydp</arg>&apos; of module &apos;<arg fmt="%s" index="3">datapath</arg>&apos;
+</msg>
+
+<msg type="error" file="Xst" num="0" delta="unknown" >Unexpected error found while building hierarchy.
+</msg>
+
+</messages>

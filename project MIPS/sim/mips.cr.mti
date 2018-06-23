@@ -1,0 +1,67 @@
+{C:/Users/M Usman/Documents/dsd lab/project MIPS/instruction_memory.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/instruction_memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/ALU.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/data memory.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/data memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/pc.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/pc.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/datapath.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/datapath.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module datapath
+-- Compiling module mux
+-- Compiling module mux31
+-- Compiling module signextension
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/sim/aatb_mips.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/sim/aatb_mips.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module aatb_mips
+
+Top level modules:
+	aatb_mips
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/register_file.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/register_file.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/control.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/control.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} {C:/Users/M Usman/Documents/dsd lab/project MIPS/main.v} {1 {vlog -work work -stats=none {C:/Users/M Usman/Documents/dsd lab/project MIPS/main.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}}

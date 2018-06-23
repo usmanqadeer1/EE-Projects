@@ -1,0 +1,11 @@
+MO data_memory NULL "data memory.v" vlg4A/data__memory.bin 1481970633
+MO signextension NULL datapath.v vlg06/signextension.bin 1481970633
+MO instruction_memory NULL instruction_memory.v vlg62/instruction__memory.bin 1481970633
+MO regfile NULL register_file.v vlg72/regfile.bin 1481970633
+MO datapath NULL datapath.v vlg27/datapath.bin 1481970633
+MO pc NULL pc.v vlg13/pc.bin 1481970633
+MO main NULL ../main.v vlg2D/main.bin 1481970633
+MO control NULL ../control.v vlg61/control.bin 1481970633
+MO mux NULL datapath.v vlg66/mux.bin 1481970633
+MO ALU NULL ALU.v vlg2A/_a_l_u.bin 1481970633
+MO mux31 NULL datapath.v vlg26/mux31.bin 1481970633

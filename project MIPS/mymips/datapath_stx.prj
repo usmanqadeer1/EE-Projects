@@ -1,0 +1,7 @@
+verilog isim_temp "register_file.v"
+verilog isim_temp "pc.v"
+verilog isim_temp "instruction_memory.v"
+verilog isim_temp "datapath.v"
+verilog isim_temp "data memory.v"
+verilog isim_temp "ALU.v"
+verilog isim_temp "C:/Xilinx/verilog/src/glbl.v"

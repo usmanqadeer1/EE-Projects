@@ -1,0 +1,8 @@
+verilog work "register_file.v"
+verilog work "pc.v"
+verilog work "instruction_memory.v"
+verilog work "datapath.v"
+verilog work "data memory.v"
+verilog work "ALU.v"
+verilog work "../control.v"
+verilog work "../main.v"

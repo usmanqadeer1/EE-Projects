@@ -1,0 +1,285 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/M Usman/Documents/dsd lab/homework9/sim
+vaatb_mips
+Z0 !s110 1482232480
+!i10b 1
+!s100 ;ElLC[`N1ISPVZK48zYcY2
+I[f=iMn711ZlJP1hQHLVIg2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/M Usman/Documents/dsd lab/project MIPS/sim
+w1482226102
+8C:/Users/M Usman/Documents/dsd lab/project MIPS/sim/aatb_mips.v
+FC:/Users/M Usman/Documents/dsd lab/project MIPS/sim/aatb_mips.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1482232479.000000
+!s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/sim/aatb_mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/sim/aatb_mips.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vALU
+Z6 !s110 1482232477
+!i10b 1
+!s100 bOkY<;C^_Bf71KdD8V_:l2
+IR;9G2;aO_BN?b5gkm2z`H0
+R1
+R2
+w1481916914
+8C:/Users/M Usman/Documents/dsd lab/project MIPS/ALU.v
+FC:/Users/M Usman/Documents/dsd lab/project MIPS/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1482232477.000000
+!s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/ALU.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u
+vcontrol
+Z8 !s110 1482232481
+!i10b 1
+!s100 <_>YFfeQ?ozO@`b^1jEUn3
+I2_dkQY3ZBQ9;2A:H49@5f1
+R1
+R2
+w1482168128
+8C:/Users/M Usman/Documents/dsd lab/project MIPS/control.v
+FC:/Users/M Usman/Documents/dsd lab/project MIPS/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1482232481.000000
+!s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/control.v|
+!s101 -O0
+!i113 1
+R5
+vdata_memory
+R6
+!i10b 1
+!s100 YUGUC4SDTRboVO:fao0_l0
+IjBGcYXI[3BJ_>EEXLD1j_1
+R1
+R2
+w1482205646
+8C:/Users/M Usman/Documents/dsd lab/project MIPS/data memory.v
+FC:/Users/M Usman/Documents/dsd lab/project MIPS/data memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/data memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/data memory.v|
+!s101 -O0
+!i113 1
+R5
+vdatapath
+R0
+!i10b 1
+!s100 `gHd6ZmNaE:9BKV_o0JH[1
+IKAAGA`Ti]Neg9N9VzIS4A2
+R1
+R2
+Z10 w1482225919
+Z11 8C:/Users/M Usman/Documents/dsd lab/project MIPS/datapath.v
+Z12 FC:/Users/M Usman/Documents/dsd lab/project MIPS/datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z13 !s108 1482232480.000000
+Z14 !s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/datapath.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/datapath.v|
+!s101 -O0
+!i113 1
+R5
+vinstruction_memory
+!s110 1482232478
+!i10b 1
+!s100 >YSo>]gknQ=8@AKBg]kkc1
+I;4FJSHBY^S_hVo?A:l@jV1
+R1
+R2
+w1482206482
+8C:/Users/M Usman/Documents/dsd lab/project MIPS/instruction_memory.v
+FC:/Users/M Usman/Documents/dsd lab/project MIPS/instruction_memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z16 !s108 1482232478.000000
+!s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/instruction_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/instruction_memory.v|
+!s101 -O0
+!i113 1
+R5
+vmain
+R8
+!i10b 1
+!s100 kV;cObKCVdGXH_:GNXJVg1
+Ie5I4L@EmfZl]XYXRkEUQf3
+R1
+R2
+w1481964354
+8C:/Users/M Usman/Documents/dsd lab/project MIPS/main.v
+FC:/Users/M Usman/Documents/dsd lab/project MIPS/main.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/main.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/main.v|
+!s101 -O0
+!i113 1
+R5
+vmux
+R0
+!i10b 1
+!s100 Nhf_=6GFIBa3>MJ3bNi5O1
+IG0EPXzXPj8E9bH:[AA<gg1
+R1
+R2
+R10
+R11
+R12
+L0 36
+R3
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R5
+vmux31
+R0
+!i10b 1
+!s100 `lo5^kDAcBXZbRNZADfD[1
+IG@Y6VM?edT;ZDhkz]3[QD1
+R1
+R2
+R10
+R11
+R12
+L0 40
+R3
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R5
+vpc
+Z17 !s110 1482232479
+!i10b 1
+!s100 HJdZL<R1X26Q2fIT2M^m80
+I8``ljMPhfMHkJYQKYOR^z2
+R1
+R2
+w1482161542
+Z18 8C:/Users/M Usman/Documents/dsd lab/project MIPS/pc.v
+Z19 FC:/Users/M Usman/Documents/dsd lab/project MIPS/pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+Z20 !s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/pc.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/pc.v|
+!s101 -O0
+!i113 1
+R5
+vPC_reg
+!s110 1481813986
+!i10b 1
+!s100 3MBih^DPhXOkijIza36ic3
+I^=X13G9<Eo6O`WI:<MUNc2
+R1
+R2
+w1481813801
+R18
+R19
+L0 17
+R3
+r1
+!s85 0
+31
+!s108 1481813986.000000
+R20
+R21
+!s101 -O0
+!i113 1
+R5
+n@p@c_reg
+vregfile
+R17
+!i10b 1
+!s100 ei2?T4CYn:e6X6o5IQPX:0
+IWh5biaa>F_I]2^:SV6P913
+R1
+R2
+w1481969301
+8C:/Users/M Usman/Documents/dsd lab/project MIPS/register_file.v
+FC:/Users/M Usman/Documents/dsd lab/project MIPS/register_file.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/M Usman/Documents/dsd lab/project MIPS/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/M Usman/Documents/dsd lab/project MIPS/register_file.v|
+!s101 -O0
+!i113 1
+R5
+vsignextension
+R0
+!i10b 1
+!s100 ;0m4[TJ8=U4T=5lzg@2D`2
+IU4l3gm;=56CP;e`UE0^YH0
+R1
+R2
+R10
+R11
+R12
+L0 44
+R3
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R5

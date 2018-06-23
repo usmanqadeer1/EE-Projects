@@ -1,0 +1,27 @@
+V3 25
+FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/datapath.v" 2016/12/17.02:11:19 I.31
+MO isim_temp/datapath \
+      FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/datapath.v" \
+      MI ALU            MI data_memory    MI instruction_memory MI mux        MI mux31 \
+      MI pc             MI regfile        MI signextension
+MO isim_temp/mux \
+      FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/datapath.v"
+MO isim_temp/mux31 \
+      FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/datapath.v"
+MO isim_temp/signextension \
+      FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/datapath.v"
+FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/pc.v" 2016/12/15.22:35:41 I.31
+MO isim_temp/pc         FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/pc.v"
+FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/data memory.v" 2016/12/16.16:58:07 I.31
+MO isim_temp/data_memory \
+      FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/data memory.v"
+FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/instruction_memory.v" 2016/12/17.01:37:23 I.31
+MO isim_temp/instruction_memory \
+      FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/instruction_memory.v"
+FL $XILINX/verilog/src/glbl.v 2006/05/17.23:09:08 I.31
+MO isim_temp/glbl       FL $XILINX/verilog/src/glbl.v
+FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/ALU.v" 2016/12/17.00:35:14 I.31
+MO isim_temp/ALU        FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/ALU.v"
+FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/register_file.v" 2016/12/17.01:24:40 I.31
+MO isim_temp/regfile \
+      FL "C:/Users/M Usman/Documents/dsd lab/project MIPS/mymips/register_file.v"
